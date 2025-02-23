@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comp_webs", "comp_webs\comp_webs.vcxproj", "{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Debug|x64.ActiveCfg = Debug|x64
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Debug|x64.Build.0 = Debug|x64
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Debug|x86.Build.0 = Debug|Win32
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Release|x64.ActiveCfg = Release|x64
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Release|x64.Build.0 = Release|x64
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Release|x86.ActiveCfg = Release|Win32
+		{F80D7BA1-7D19-4EED-86C3-3086ED36E53D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E484A5B-169E-4E27-87A6-7FB720437EAA}
+	EndGlobalSection
+EndGlobal

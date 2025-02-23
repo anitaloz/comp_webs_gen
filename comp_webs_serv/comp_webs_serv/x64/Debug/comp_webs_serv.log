@@ -1,0 +1,4 @@
+﻿  comp_webs_serv.cpp
+C:\Users\Пользователь\source\repos\comp_webs_serv\comp_webs_serv\comp_webs_serv.cpp(107,17): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Пользователь\source\repos\comp_webs_serv\comp_webs_serv\comp_webs_serv.cpp(118,23): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+  comp_webs_serv.vcxproj -> C:\Users\Пользователь\source\repos\comp_webs_serv\x64\Debug\comp_webs_serv.exe
