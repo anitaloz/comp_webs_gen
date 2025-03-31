@@ -1,9 +1,0 @@
-﻿  comp_webs.cpp
-C:\Users\Пользователь\source\repos\comp_webs\comp_webs\comp_webs.cpp(175,63): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
-          with
-          [
-              _Ty=int
-          ]
-C:\Users\Пользователь\source\repos\comp_webs\comp_webs\comp_webs.cpp(216,11): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
-C:\Users\Пользователь\source\repos\comp_webs\comp_webs\comp_webs.cpp(221,14): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
-  comp_webs.vcxproj -> C:\Users\Пользователь\source\repos\comp_webs\x64\Debug\comp_webs.exe
